@@ -1,16 +1,12 @@
 <template>
   <v-app>
-    <v-layout
-        justify-center
-        align-center
-    >
+    <v-layout justify-center align-center>
       <h1>Workshop 4</h1>
     </v-layout>
 
     <v-main>
       <v-container>
-      <Form>
-      </Form>
+        <Form> </Form>
       </v-container>
     </v-main>
   </v-app>
